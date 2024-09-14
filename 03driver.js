@@ -1,0 +1,5 @@
+const names=require(`./01names`)
+const hello=require(`./02Hellofxn`)
+hello(names.ufcFighter1)
+hello(names.ufcFighter2)
+hello(names.ufcFighter3)

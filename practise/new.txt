@@ -1,0 +1,8 @@
+File Handling
+Dear Sir/Mam,
+
+I am writing to express my interest in the Software Developer freshers role at your organization. With a recent 6-month certification in Core Java, Spring Boot, HTML, CSS , JS and MySQL, I am eager to apply my skills to real-world projects. Your company's emphasis on innovation aligns with my values, and I believe I can contribute to your team's success. Please find my attached resume for your reference. I look forward to discussing my qualifications further.
+
+Thank you for your time.
+
+Sincerely,
